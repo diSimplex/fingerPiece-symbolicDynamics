@@ -1,0 +1,25 @@
+# This is the LPiT definition YAML file for the <<>> document
+
+doc:
+  id: symDyn
+  name: symbolicDynamics
+  type: paper
+
+title:
+  short: Symbolic Dynamics
+  long: Symbolic Dynamics
+
+gitHub: https://github.com/stephengaito/fingerPiece-symbolicDynamics.git
+
+authors:
+  - given: Stephen
+    family: Gaito
+    email: stephen@perceptisys.co.uk
+
+#packages:
+#  - location: <<>> # optional
+#    name: <<>
+#    version: <<>>
+
+abstract: |
+  A summary of the Symbolic Dynamics used in the diSimplex projects
